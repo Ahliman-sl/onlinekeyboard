@@ -1,0 +1,11 @@
+{
+  "name": "onlinekeyboard",
+  "version": "1.0.0",
+  "description": "Online Keyboard",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahliman Suleymanli",
+  "license": "ISC"
+}
